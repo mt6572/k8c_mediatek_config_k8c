@@ -111,7 +111,7 @@ CUSTOM_KERNEL_EEPROM=dummy_eeprom
 CUSTOM_KERNEL_FLASHLIGHT=dummy_flashlight
 
 # gyro driver
-CUSTOM_KERNEL_GYROSCOPE=
+CUSTOM_KERNEL_GYROSCOPE=bmi160_gyro
 
 # detect headset cable plug in and out
 CUSTOM_KERNEL_HEADSET=accdet
